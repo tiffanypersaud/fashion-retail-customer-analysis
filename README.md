@@ -71,7 +71,7 @@ Power BI was used to build an interactive dashboard visualizing:
 - `fashion_retail_customers.csv` → Dataset
 - `fashion_retail_analysis.sql` → SQL Queries
 - `Customer_Purchase_Behavior.pbix` → Power BI Dashboard
-- `dashboard.png` → Dashboard Screenshot
+- `dashboard.customeranalysis.png` → Dashboard Screenshot
 
 ---
 
