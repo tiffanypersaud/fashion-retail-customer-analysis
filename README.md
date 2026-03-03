@@ -1,5 +1,10 @@
 # 📊 Fashion & Retail Customer Analysis
 
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
+
 ## 📌 Project Overview
 This project explores customer purchase behavior, spending patterns, and discount usage within a simulated fashion & retail dataset. The goal was to replicate a real-world data analyst workflow by combining Excel, SQL, and Power BI to generate actionable business insights.
 
@@ -77,3 +82,11 @@ Power BI was used to build an interactive dashboard visualizing:
 
 ## ✅ Project Outcome
 This project demonstrates end-to-end data analysis skills including data exploration, KPI calculation, SQL querying, and dashboard development. The workflow mirrors real-world analyst responsibilities involving business metric evaluation, customer segmentation, and performance reporting.
+
+## Project Workflow
+
+1. Explored customer transaction data in Excel to understand purchase patterns.
+2. Used SQL queries to analyze spending behavior, category performance, and discount usage.
+3. Loaded the dataset into Power BI for visualization.
+4. Created DAX measures to calculate key retail metrics.
+5. Built an interactive dashboard to analyze customer purchasing trends.
